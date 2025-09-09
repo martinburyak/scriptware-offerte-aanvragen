@@ -35,7 +35,7 @@ Bij minder horizontale ruimte valt de rechterkolom weg:
 
 En bij smalle schermen staan de stappen bovenaan:
 
-<img src="offerte-aanvragen-small.jpg" width="370" />
+<img src="readme/offerte-aanvragen-small.jpg" width="370" />
 
 ## User experience
 
@@ -49,11 +49,11 @@ Ook het path in het url verander als er een andere stap in het process bezocht w
 
 De klanten van Scriptware zijn internationaal, dus de web applicatie moest ook meertalig zijn. Het formulier is beschikbaar in 2 talen, Nederlands en Engels. Het onderscheidt wordt gemaakt in het pad van de url.
 
-```http
+```
 NL https://app.scriptwaretranslations.com/nl/wizard
 ```
 
-```http
+```
 EN https://app.scriptwaretranslations.com/en/wizard
 ```
 
